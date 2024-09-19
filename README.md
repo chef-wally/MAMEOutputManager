@@ -1,0 +1,1 @@
+# MAME Output Manager
